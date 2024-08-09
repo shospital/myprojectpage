@@ -1,0 +1,1 @@
+Sitemap: https://shospital.github.io/myprojectpage/sitemap.xml
