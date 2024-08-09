@@ -1,0 +1,34 @@
+project:
+  type: website
+
+website:
+  title: "myprojectpage"
+
+  sidebar:
+      background: "#D9E3E8"
+      logo: "images/coastwatch.png "
+      favicon: images/coastwatch.png 
+      pinned: true
+      align: center
+      tools: 
+        - icon: globe
+          href: https://coastwatch.noaa.gov
+          text: "Openscapes.org"
+        - icon: github
+          href: https://github.com/coastwatch-training
+      style: "docked"
+      search: true
+      contents:
+        - href: climatology.qmd
+          text: Climatology
+        - href: model.qmd
+          tex: Model
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

@@ -1,0 +1,33 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Internship Intro",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#title-1",
+    "href": "index.html#title-1",
+    "title": "Internship Intro",
+    "section": "Title 1",
+    "text": "Title 1\n\nSubtitle 1"
+  },
+  {
+    "objectID": "index.html#title2",
+    "href": "index.html#title2",
+    "title": "Internship Intro",
+    "section": "Title2",
+    "text": "Title2\n\nSubtitle 2"
+  },
+  {
+    "objectID": "climatology.html",
+    "href": "climatology.html",
+    "title": "Sea Ice Time Series Analysis",
+    "section": "",
+    "text": "blah",
+    "crumbs": [
+      "Climatology"
+    ]
+  }
+]
